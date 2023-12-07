@@ -1,47 +1,47 @@
 # Portfolio-Evidence-ML
 
-¡Bienvenido al repositorio dedicado a mi trabajo durante el cuatrimestre! Aquí encontrarás los proyectos correspondientes a cada tarea y exposición, incluyendo el código, conjuntos de datos y documentos relacionados, como diapositivas y archivos en formato PDF.
+Welcome to the repository dedicated to my semester work! Here you will find projects corresponding to each assignment and presentation, including code, datasets, and related documents such as slides and PDF files.
 
-## Estructura del Repositorio
+## Repository Structure
 
-El repositorio está organizado de la siguiente manera:
+The repository is organized as follows:
 
 1. **Perceptron (U1)**
-    - Implementación del Perceptrón.
-    - Soluciones a problemas comunes.
-    - Documentación detallada.
+    - Perceptron implementation.
+    - Solutions to common problems.
+    - Detailed documentation.
 
 2. **Expo (Dimensionality Reduction)**
-    - Presentación sobre técnicas de reducción de dimensionalidad.
-    - Código relacionado con la exposición.
+    - Presentation on dimensionality reduction techniques.
+    - Code related to the presentation.
 
 3. **Predictor from Scratch**
-    - Desarrollo de un predictor desde cero.
-    - Conjuntos de datos utilizados.
-    - Archivos de presentación.
+    - Development of a predictor from scratch.
+    - Used datasets.
+    - Presentation files.
 
-4. **Implementación del Perceptrón**
-    - Otra implementación específica del Perceptrón, con énfasis en diferentes aspectos.
+4. **Perceptron Implementation**
+    - Another specific implementation of the perceptron, with an emphasis on different aspects.
 
-5. **Implementación KNN**
-    - Implementación del algoritmo K-Nearest Neighbors.
-    - Evaluación de su rendimiento en distintos casos.
+5. **KNN Implementation**
+    - Implementation of the K-Nearest Neighbors algorithm.
+    - Evaluation of its performance in different cases.
 
 6. **Expo (Naive Bayes, SVM, DT)**
-    - Exposición sobre algoritmos populares: Naive Bayes, Support Vector Machines y Decision Trees.
-    - Códigos asociados y análisis comparativo.
+    - Presentation on popular algorithms: Naive Bayes, Support Vector Machines, and Decision Trees.
+    - Associated codes and comparative analysis.
 
-7. **Investigación sobre Ensambladores**
-    - Tarea de investigación sobre ensambladores.
-    - Documento que resume los hallazgos y conclusiones.
+7. **Ensemble Research Task**
+    - Research task on ensemble methods.
+    - Document summarizing findings and conclusions.
 
-8. **Proyecto Final**
-    - Definición inicial del proyecto.
-    - Primera entrega (U2) con avances y resultados preliminares.
-    - Entrega final (U3) con el proyecto completo y análisis detallado.
+8. **Final Project**
+    - Initial definition of the project.
+    - First submission (U2) with progress and preliminary results.
+    - Final submission (U3) with the complete project and detailed analysis.
 
-## Instrucciones de Uso
+## Usage Instructions
 
-Cada carpeta contiene su propio conjunto de instrucciones y documentación específica. Si tienes alguna pregunta o sugerencia, no dudes en crear un *issue* o ponerte en contacto directo.
+Each folder contains its own set of instructions and specific documentation. If you have any questions or suggestions, feel free to create an issue or contact directly.
 
-¡Espero que encuentres útil y educativo este repositorio!
+I hope you find this repository useful and educational!
